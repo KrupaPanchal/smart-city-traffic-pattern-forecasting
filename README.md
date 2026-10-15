@@ -1,3 +1,3 @@
-# Notebooks
+# EDA notebooks
 
-Planned next notebook: `01_dataset_quality_and_eda.ipynb` for schema review, missing values, duplicate records, timestamp checks, and basic plots. Begin by running `python src/inspect_dataset.py`.
+The initial EDA workflow is in `src/run_eda.py`. Run it to generate a data profile and PNG figures. A notebook can be added later for interactive commentary and deeper analysis.
