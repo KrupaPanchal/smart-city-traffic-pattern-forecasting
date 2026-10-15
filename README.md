@@ -1,3 +1,3 @@
-# Source code
+# Notebooks
 
-Reusable cleaning, feature preparation, and evaluation functions may be added here after the dataset schema and analysis workflow are confirmed.
+Planned next notebook: `01_dataset_quality_and_eda.ipynb` for schema review, missing values, duplicate records, timestamp checks, and basic plots. Begin by running `python src/inspect_dataset.py`.
