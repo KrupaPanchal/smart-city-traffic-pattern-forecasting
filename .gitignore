@@ -1,20 +1,12 @@
-# Python
 __pycache__/
 *.py[cod]
-*.pyo
-.ipynb_checkpoints/
 .venv/
 venv/
-env/
-
-# Data files (download separately from the original source)
+.ipynb_checkpoints/
 data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-
-# Local/editor files
-.vscode/
-.idea/
+models/*
+outputs/*.csv
+outputs/*.json
+!data/README.md
+!outputs/README.md
 .DS_Store
-Thumbs.db

@@ -1,7 +1,7 @@
 pandas
 numpy
-matplotlib
-seaborn
 ucimlrepo
 scikit-learn
+matplotlib
+seaborn
 jupyter
