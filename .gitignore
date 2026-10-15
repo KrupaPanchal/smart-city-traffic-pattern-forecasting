@@ -2,11 +2,9 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-.ipynb_checkpoints/
-data/raw/*
-models/*
+data/Metro_Interstate_Traffic_Volume.csv
 outputs/*.csv
 outputs/*.json
-!data/README.md
-!outputs/README.md
+outputs/*.txt
+outputs/*.png
 .DS_Store
